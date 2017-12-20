@@ -1,3 +1,1 @@
-# School_for_Machines
-# School_for_Machines
-# School_for_Machines
+The given folders contain the different predictive models and their data sets
